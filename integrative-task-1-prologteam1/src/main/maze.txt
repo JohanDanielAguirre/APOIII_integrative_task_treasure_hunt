@@ -1,0 +1,10 @@
+<<<<<<< Updated upstream
+S . . . T
+. # . # .
+. # . # .
+. # . # .
+. . . . G
+=======
+S # G .
+T . . .
+>>>>>>> Stashed changes
